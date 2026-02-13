@@ -301,7 +301,7 @@ UTC 2026-02-14 12:00:00  INFO Fortytwo Protocol Relay current version: 0.1.11
 UTC 2026-02-14 12:00:00  INFO Operator Wallet Address: 0x...
 UTC 2026-02-14 12:00:00  INFO Address 0x... is whitelisted
 UTC 2026-02-14 12:00:00  INFO Check health
-UTC 2026-02-14 12:00:00  INFO Relay address is public. Current address /ip4/38.49.212.137/tcp/42042
+UTC 2026-02-14 12:00:00  INFO Relay address is public. Current address /ip4/Your İp Adress/tcp/42042
 ```
 
 
